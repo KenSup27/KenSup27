@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning R, Python. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me yyuwentao828@gmail.com
+- 📫 How to reach me yuwentao828@gmail.com
 
 <!---
 KenSup27/KenSup27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
